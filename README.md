@@ -35,3 +35,10 @@ The Regenerative Agriculture Profitability Enhancement System is designed to bri
 
 ## Wire Diagram 
 
+
+
+
+![A_Wire_Digram drawio](https://github.com/user-attachments/assets/fafb2026-26a3-4252-8528-7134fcbf08e9)
+
+
+
